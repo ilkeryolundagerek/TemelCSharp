@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemelCSharp", "TemelCSharp\TemelCSharp.csproj", "{416ED49C-9513-4631-B700-DF773687B9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{7BAF0839-82D5-4800-BCC0-F2C479A19BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{416ED49C-9513-4631-B700-DF773687B9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416ED49C-9513-4631-B700-DF773687B9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416ED49C-9513-4631-B700-DF773687B9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416ED49C-9513-4631-B700-DF773687B9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAF0839-82D5-4800-BCC0-F2C479A19BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAF0839-82D5-4800-BCC0-F2C479A19BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAF0839-82D5-4800-BCC0-F2C479A19BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAF0839-82D5-4800-BCC0-F2C479A19BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56BEBF04-126B-4885-B538-FAB70DDC6234}
+	EndGlobalSection
+EndGlobal
